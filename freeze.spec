@@ -1,5 +1,5 @@
 Summary:	freeze/melt/fcat compression utilities
-Summary(pl):	Narzêdzia do kompresji freeze/melt/fcat
+Summary(pl.UTF-8):   NarzÄ™dzia do kompresji freeze/melt/fcat
 Name:		freeze
 Version:	2.5.0
 Release:	1
@@ -17,12 +17,12 @@ dearchive files compressed with it.
 Freeze uses the Lempel-Ziv algorithm on the first pass and the dynamic
 Huffman algorithm on the second one.
 
-%description -l pl
-Freeze to stary kompresor i dekompresor plików, nie bêd±cy ju¿ w
-powszechnym u¿yciu, ale przydatny w przypadku konieczno¶ci
-rozpakowania plików nim skompresowanych.
+%description -l pl.UTF-8
+Freeze to stary kompresor i dekompresor plikÃ³w, nie bÄ™dÄ…cy juÅ¼ w
+powszechnym uÅ¼yciu, ale przydatny w przypadku koniecznoÅ›ci
+rozpakowania plikÃ³w nim skompresowanych.
 
-Freeze u¿ywa algorytmu Lempel-Ziv w pierwszym przebiegu i dynamicznego
+Freeze uÅ¼ywa algorytmu Lempel-Ziv w pierwszym przebiegu i dynamicznego
 algorytmu Huffmana w drugim.
 
 %prep
