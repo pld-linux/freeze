@@ -1,5 +1,5 @@
 Summary:	freeze/melt/fcat compression utilities
-Summary(pl.UTF-8):   Narzędzia do kompresji freeze/melt/fcat
+Summary(pl.UTF-8):	Narzędzia do kompresji freeze/melt/fcat
 Name:		freeze
 Version:	2.5.0
 Release:	1
